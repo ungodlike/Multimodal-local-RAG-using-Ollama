@@ -1,0 +1,7 @@
+streamlit
+langchain_community
+langchain_core
+chromadb
+tiktoken
+bs4
+PyPDF2
