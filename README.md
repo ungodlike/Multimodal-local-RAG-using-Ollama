@@ -5,7 +5,17 @@ This is a local multimodal RAG deployed using streamlit that can take in both UR
 Best part? Use your preferred open source models as well as embeddings!
 
 
+## Ollama
 
+Download Ollama and download the model you need, example
+
+```bash
+  ollama pull llama3
+```
+and 
+```bash
+  ollama pull nomic-embed-text
+```
 
 
 ## Run Locally
